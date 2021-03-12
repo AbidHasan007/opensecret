@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/opensecret/static/css/main.75b4aa8d.chunk.css",
+    "main.js": "/opensecret/static/js/main.09fe37cb.chunk.js",
+    "main.js.map": "/opensecret/static/js/main.09fe37cb.chunk.js.map",
+    "runtime-main.js": "/opensecret/static/js/runtime-main.fe7b1728.js",
+    "runtime-main.js.map": "/opensecret/static/js/runtime-main.fe7b1728.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/opensecret/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.09c39247.chunk.js": "/opensecret/static/js/2.09c39247.chunk.js",
+    "static/js/2.09c39247.chunk.js.map": "/opensecret/static/js/2.09c39247.chunk.js.map",
+    "index.html": "/opensecret/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/opensecret/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.75b4aa8d.chunk.css.map": "/opensecret/static/css/main.75b4aa8d.chunk.css.map",
+    "static/js/2.09c39247.chunk.js.LICENSE.txt": "/opensecret/static/js/2.09c39247.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe7b1728.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.09c39247.chunk.js",
+    "static/css/main.75b4aa8d.chunk.css",
+    "static/js/main.09fe37cb.chunk.js"
+  ]
+}
