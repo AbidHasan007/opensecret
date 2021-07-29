@@ -1,4 +1,4 @@
 # opensecret
 Live: https://abidhasan007.github.io/opensecret/
-#Language/Framework
+# Language/Framework
 React JS
